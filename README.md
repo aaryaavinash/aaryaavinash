@@ -13,6 +13,10 @@
   <a href="mailto:hello@aarya.cyou">SAY HELLO ↗</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=aaryaavinash&amp;color=f54830&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Aarya Avinash profile view count"></a>
+</p>
+
 <br>
 
 ### 01 / A little about me
@@ -67,6 +71,14 @@ The worlds below are independent projects, each with its own source, credits, an
 </p>
 
 I enjoy building the full journey: the first sketch, the movement between sections, and the version that finally goes live.
+
+<br>
+
+### 04 / GitHub signal
+
+<p align="center">
+  <a href="https://github.com/Igorcbraz/GitAscii"><img src="https://gitascii.com/api/aaryaavinash?template=terminal&amp;widgets=terminal-info" alt="GitAscii terminal with Aarya's public GitHub information" width="504"></a>
+</p>
 
 <br>
 
