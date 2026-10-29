@@ -74,10 +74,15 @@ I enjoy building the full journey: the first sketch, the movement between sectio
 
 <br>
 
-### 04 / GitHub signal
+### 04 / Live signal
 
 <p align="center">
   <a href="https://github.com/Igorcbraz/GitAscii"><img src="https://gitascii.com/api/aaryaavinash?template=terminal&amp;widgets=terminal-info" alt="GitAscii terminal with Aarya's public GitHub information" width="504"></a>
+</p>
+
+<p align="center">
+  <a href="https://discord.com/users/1217420097317109821"><img src="https://dsc-readme.tsuni.dev/api/user/1217420097317109821?layout=compact&amp;width=480&amp;theme=custom&amp;colorB1=090A0D&amp;colorB2=17191F&amp;colorB3=2C3038&amp;colorT1=EFEBDD&amp;colorT2=898E96" alt="Aarya's live Discord profile" width="480"></a><br>
+  <sub>Discord card by <a href="https://github.com/the-snesler/discord-github-readme">Discord GitHub Preview</a></sub>
 </p>
 
 <br>
